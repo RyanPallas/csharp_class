@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\KBTC\L4 DC\C sharp\cafe_shop\bin\Debug\cafe_shop.exe.config
+C:\Users\DELL\Desktop\KBTC\L4 DC\C sharp\cafe_shop\bin\Debug\cafe_shop.exe
+C:\Users\DELL\Desktop\KBTC\L4 DC\C sharp\cafe_shop\bin\Debug\cafe_shop.pdb
+C:\Users\DELL\Desktop\KBTC\L4 DC\C sharp\cafe_shop\obj\Debug\cafe_shop.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\KBTC\L4 DC\C sharp\cafe_shop\obj\Debug\cafe_shop.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Desktop\KBTC\L4 DC\C sharp\cafe_shop\obj\Debug\cafe_shop.Form1.resources
+C:\Users\DELL\Desktop\KBTC\L4 DC\C sharp\cafe_shop\obj\Debug\cafe_shop.Form2.resources
+C:\Users\DELL\Desktop\KBTC\L4 DC\C sharp\cafe_shop\obj\Debug\cafe_shop.Properties.Resources.resources
+C:\Users\DELL\Desktop\KBTC\L4 DC\C sharp\cafe_shop\obj\Debug\cafe_shop.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\KBTC\L4 DC\C sharp\cafe_shop\obj\Debug\cafe_shop.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\KBTC\L4 DC\C sharp\cafe_shop\obj\Debug\cafe_shop.exe
+C:\Users\DELL\Desktop\KBTC\L4 DC\C sharp\cafe_shop\obj\Debug\cafe_shop.pdb
+C:\Users\DELL\Desktop\KBTC\L4 DC\C sharp\cafe_shop\obj\Debug\cafe_shop.Form3.resources
+C:\Users\DELL\Desktop\KBTC\L4 DC\C sharp\cafe_shop\obj\Debug\cafe_shop.Form4.resources
+C:\Users\DELL\Desktop\KBTC\L4 DC\C sharp\cafe_shop\obj\Debug\cafe_shop.Form5.resources
